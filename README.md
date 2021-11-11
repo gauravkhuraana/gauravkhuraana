@@ -29,7 +29,7 @@
   <a align="center" target="_blank"href="https://linktr.ee/gauravkhurana"><img src="https://img.shields.io/badge/lets learn from each other -     linktr.ee/gauravkhurana   -brown" /></a>&nbsp;&nbsp;&nbsp;
 <hr>
 
-<h2 align="center">💬 Technial Blog + Youtube Channel for sharing learning related to Testing and mobile Apps</h2>
+<h2 align="center">💬 Technical Blog + Youtube Channel for sharing learning related to Testing and mobile Apps</h2>
 <p align="center" align='right'>
   <a target="_blank"href="https://udzial.com"><img src="https://img.shields.io/badge/www.udzial.com-My%20blog-red?style=for-the-badge" /></a>&nbsp;
     <a target="_blank"href="youtube.com/channel/UCo9zPQI-XBrwjjt9oPa6NGg?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/views/UCo9zPQI-XBrwjjt9oPa6NGg?style=social" /></a>&nbsp;&nbsp;&nbsp;
