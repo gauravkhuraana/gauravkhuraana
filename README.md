@@ -13,7 +13,7 @@
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>Hello! My name is Gaurav Khurana. I have 12+ years of experience in IT industry as a Software Tester. Worked in 3 MNCs, Currently working as Test Consultant for *Microsoft*. has worked on *nix and windows based apps for telecom, insurance domain. Used SoapUI, Perl, Shell scripting, Postman, Java, Python, TestProject, ACCELQ , Karate DSL selenium for automation along with excel. Udzial is a polish word which means share. I believe in #SharingIsCaring. So here to share with you what I have learned.
+  <samp>Hello! My name is Gaurav Khurana. I have 12+ years of experience in IT industry as a Software Tester. Worked in 3 MNCs, Currently working as Test Consultant for Microsoft. has worked on *nix and windows based apps for telecom, insurance domain. Used SoapUI, Perl, Shell scripting, Postman, Java, Python, TestProject, ACCELQ , Karate DSL selenium for automation along with excel. Udzial is a polish word which means share. I believe in #SharingIsCaring. So here to share with you what I have learned.
   </samp>
   <br> <br>
   <img src="https://img.shields.io/badge/Tester-FF9522?style=for-the-badge&logo=tester&logoColor=white" alt="https://github.com/gauravkhuraana" />
@@ -24,12 +24,12 @@
 </p>
 
 <hr>
-<h2 align="center"> 👨‍💻 An Easy way to connet/remember me</h2>
+<h2 align="center"> 👨‍💻 An Easy way to connect/remember me</h2>
 <p align="center" align='right'>
   <a align="center" target="_blank"href="https://linktr.ee/gauravkhurana"><img src="https://img.shields.io/badge/lets learn from each other -     linktr.ee/gauravkhurana   -brown" /></a>&nbsp;&nbsp;&nbsp;
 <hr>
 
-<h2 align="center">💬 Technical Blog + Youtube Channel for sharing learning related to Testing and mobile Apps</h2>
+<h2 align="center">💬 Technical Blog + YouTube Channel for sharing learning related to Testing and mobile Apps</h2>
 <p align="center" align='right'>
   <a target="_blank"href="https://udzial.com"><img src="https://img.shields.io/badge/www.udzial.com-My%20blog-red?style=for-the-badge" /></a>&nbsp;
     <a target="_blank"href="youtube.com/channel/UCo9zPQI-XBrwjjt9oPa6NGg?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/views/UCo9zPQI-XBrwjjt9oPa6NGg?style=social" /></a>&nbsp;&nbsp;&nbsp;
