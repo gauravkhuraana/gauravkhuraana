@@ -61,11 +61,12 @@
 <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>&nbsp;&nbsp;
      
 </p>
-<p align="center"> API - SoapUI, Postman,RestAssured, Karate
-<p align="center"> Programming Languages - Java,  Python
+<p align="center"> AI Tools - Co-pilot, ChatGPT
+<p align="center"> API - Postman,SoapUI,RestAssured, Karate
+<p align="center"> Programming Languages - Java,  Python, C#
 <p align="center">Test Management Tool - AzureDevOps(ADO)
-<p align="center">Automation - Selenium, Appium , TestProject, ACCELQ
-<p align="center">Devops - Docker, Kubernetes,  Jenkins
+<p align="center">Automation - Selenium, Appium , Playwright, Serenity-BDD, TestProject, ACCELQ, AskUI 
+<p align="center">Devops - Docker, Kubernetes,  Jenkins, AzureDevOps
 <p align="center">Cloud - Azure, Azure Data Factory
 <p align="center">Code Management - Git, Github, Azure Repos   
  </p>
