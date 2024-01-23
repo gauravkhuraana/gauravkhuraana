@@ -65,7 +65,7 @@
 <p align="center"> API - Postman,SoapUI,RestAssured, Karate
 <p align="center"> Programming Languages - Java,  Python, C#
 <p align="center">Test Management Tool - AzureDevOps(ADO)
-<p align="center">Automation - Selenium, Appium , Playwright, Serenity-BDD, TestProject, ACCELQ, AskUI 
+<p align="center">Automation - Selenium, Playwright, Appium, Serenity-BDD, TestProject, ACCELQ, AskUI 
 <p align="center">Devops - Docker, Kubernetes,  Jenkins, AzureDevOps
 <p align="center">Cloud - Azure, Azure Data Factory
 <p align="center">Code Management - Git, Github, Azure Repos   
