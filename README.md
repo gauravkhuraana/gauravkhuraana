@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/Linktree-Connect%20with%20me-brown?style=for-the-badge" />
   </a>
   <a href="https://gauravkhurana.in" target="_blank">
-    <img src="https://img.shields.io/badge/Personal%20Blog-gauravkhurana.in-red?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Blog-gauravkhurana.in-red?style=for-the-badge" />
   </a>
   <a href="https://udzial.com" target="_blank">
     <img src="https://img.shields.io/badge/Tech%20Blog-udzial.com-blue?style=for-the-badge" />
@@ -59,8 +59,9 @@
   </a>
 </p>
 <p align="center">
-  <b>• <a href="https://udzial.com" target="_blank">Technical Blog</a></b> | 
-  <b><a href="https://gauravkhurana.in" target="_blank">Personal (Travel & Apps) Blog</a></b> <br>
+  <b>• <a href="https://gauravkhurana.in" target="_blank">Technical Blog</a></b> | 
+  <b>• <a href="https://udzial.com" target="_blank">Technical Blog(Earlier)</a></b> | 
+  <b><a href="https://blog.gauravkhurana.in" target="_blank">Personal (Travel & Apps) Blog</a></b> <br>
   <i>Both YouTube channels share learning & travel in Hindi 🇮🇳</i>
 </p>
 
@@ -68,6 +69,7 @@
 
 <h2 align="center">🔧 Tools of the Trade</h2>
 <p align="center">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -88,13 +90,13 @@
 </p>
 
 <p align="center">
-  <b>AI Tools:</b> Copilot, ChatGPT<br>
+  <b>AI Tools:</b> GitHub Copilot, ChatGPT, ClaudeAI, MCP Severs <br>
+  <b>Automation:</b> Selenium, Playwright, Appium, Serenity-BDD, TestProject, ACCELQ, AskUI<br>
   <b>API:</b> Postman, SoapUI, RestAssured, Karate<br>
   <b>Languages:</b> Java, Python, C#<br>
   <b>Test Management:</b> AzureDevOps (ADO)<br>
-  <b>Automation:</b> Selenium, Playwright, Appium, Serenity-BDD, TestProject, ACCELQ, AskUI<br>
   <b>DevOps:</b> Docker, Kubernetes, Jenkins, AzureDevOps<br>
-  <b>Cloud:</b> Azure, Azure Data Factory<br>
+  <b>Cloud:</b> Azure, Azure Data Factory, Azure AI<br>
   <b>Code Management:</b> Git, GitHub, Azure Repos
 </p>
 
