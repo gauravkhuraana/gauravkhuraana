@@ -118,15 +118,13 @@
 <h2 align="center">💻 GitHub Stats & Streaks</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-gk.vercel.app/api?username=gauravkhuraana&show_icons=true&theme=gotham" alt="GitHub Stats" width="65%" />
+  <img src="https://github-readme-stats-gk.vercel.app/api?username=gauravkhuraana&show_icons=true&theme=gotham&v=2" alt="GitHub Stats" width="65%" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gauravkhuraana&theme=gotham&hide_border=false" alt="GitHub Streak" width="65%" />
+  <img src="https://streak-stats.demolab.com?user=gauravkhuraana&theme=gotham&hide_border=false&v=2" alt="GitHub Streak" width="65%" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats-gk.vercel.app/api/top-langs/?username=gauravkhuraana&layout=compact&theme=gotham" alt="Top Languages" width="65%" />
+  <img src="https://github-readme-stats-gk.vercel.app/api/top-langs/?username=gauravkhuraana&layout=compact&theme=gotham&v=2" alt="Top Languages" width="65%" />
 </p>
 
 <p align="center">
