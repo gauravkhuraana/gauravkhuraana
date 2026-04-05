@@ -115,15 +115,18 @@
   </a>
 </p>
 
-<hr>
-
 <h2 align="center">💻 GitHub Stats & Streaks</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravkhuraana&show_icons=true&theme=gotham" alt="github stats" width="65%" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravkhuraana&theme=dark" width="48%" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkhuraana&layout=compact" />
+  <img src="https://github-readme-stats-gk.vercel.app/api?username=gauravkhuraana&show_icons=true&theme=gotham" alt="GitHub Stats" width="65%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gauravkhuraana&theme=gotham&hide_border=false" alt="GitHub Streak" width="65%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-gk.vercel.app/api/top-langs/?username=gauravkhuraana&layout=compact&theme=gotham" alt="Top Languages" width="65%" />
 </p>
 
 <p align="center">
@@ -131,8 +134,6 @@
     <img src="https://stackoverflow.com/users/flair/2986279.png" width="208" height="58" alt="profile for Gaurav Khurana at Stack Overflow" title="profile for Gaurav Khurana at Stack Overflow">
   </a>
 </p>
-
-<hr>
 
 <p align="center">
   <a href="https://github.com/Ileriayo/" target="_blank">
