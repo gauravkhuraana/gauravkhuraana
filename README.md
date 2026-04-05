@@ -33,8 +33,8 @@
   <a href="https://linktr.ee/gauravkhurana" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-Connect%20with%20me-brown?style=for-the-badge" />
   </a>
-  <a href="https://gauravkhurana.in" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-gauravkhurana.in-red?style=for-the-badge" />
+  <a href="https://gauravkhurana.com" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-gauravkhurana.com-red?style=for-the-badge" />
   </a>
   <a href="https://udzial.com" target="_blank">
     <img src="https://img.shields.io/badge/Tech%20Blog-udzial.com-blue?style=for-the-badge" />
@@ -59,9 +59,9 @@
   </a>
 </p>
 <p align="center">
-  <b>• <a href="https://gauravkhurana.in" target="_blank">Technical Blog</a></b> | 
+  <b>• <a href="https://gauravkhurana.com" target="_blank">Technical Blog</a></b> | 
   <b>• <a href="https://udzial.com" target="_blank">Technical Blog(Earlier)</a></b> | 
-  <b><a href="https://blog.gauravkhurana.in" target="_blank">Personal (Travel & Apps) Blog</a></b> <br>
+  <b><a href="https://blog.gauravkhurana.com" target="_blank">Personal (Travel & Apps) Blog</a></b> <br>
   <i>Both YouTube channels share learning & travel in Hindi 🇮🇳</i>
 </p>
 
