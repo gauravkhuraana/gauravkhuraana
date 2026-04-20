@@ -10,99 +10,132 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 <p align="center">
-  <samp>
-    Hello! I'm <b>Gaurav Khurana</b>, a passionate <b>Software Tester</b> with 15+ years of experience in the IT industry.<br>
-    🏆 <b>Tester of the Year 2022</b> by The Test Chat Community.<br>
-    💼 Worked in 3 MNCs. Currently Sr. Test Consultant @ Microsoft.<br>
-    👨‍💻 Experienced on *nix & Windows, in telecom & insurance domains.<br>
-    🧑‍🔬 Hands-on with Playwright, Selenium, pytest-bdd, Specflow, Reqnroll, Cucumber, SoapUI, Perl, Shell, Postman, Java, Python, C#, TestProject, ACCELQ, Karate DSL, and more.<br>
-    🌍 "Udzial" means "share" in Polish—my motto is #SharingIsCaring.<br>
-    🚀 Here to share what I learn and learn from you!
-  </samp>
+  Hello! I'm <b>Gaurav Khurana</b>, a passionate <b>Software Tester</b> with 15+ years of experience in the IT industry.<br>
+  🏆 <b>Tester of the Year 2022</b> by The Test Chat Community<br>
+  💼 Worked in 3 MNCs. Currently Sr. Test Consultant @ Microsoft<br>
+  👨‍💻 Experienced on *nix & Windows, in telecom & insurance domains<br>
+  🌍 "Udzial" means "share" in Polish — my motto is <b>#SharingIsCaring</b>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Tester-FF9522?style=for-the-badge&logo=tester&logoColor=white" />
   <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
   <img src="https://img.shields.io/badge/Youtuber-FF9522?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mentor-4CAF50?style=for-the-badge&logo=bookstack&logoColor=white" />
 </p>
 
-<hr>
-
-<h2 align="center">🌐 Find Me Online</h2>
+<!-- YouTube Subscribe CTA — top priority -->
 <p align="center">
-  <a href="https://linktr.ee/gauravkhurana" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-Connect%20with%20me-brown?style=for-the-badge" />
-  </a>
-  <a href="https://gauravkhurana.com" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-gauravkhurana.com-red?style=for-the-badge" />
-  </a>
-  <a href="https://udzial.com" target="_blank">
-    <img src="https://img.shields.io/badge/Tech%20Blog-udzial.com-blue?style=for-the-badge" />
-  </a>
-</p>
-
-<hr>
-
-<h2 align="center">💬 Content Channels</h2>
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCo9zPQI-XBrwjjt9oPa6NGg?sub_confirmation=1" target="_blank">
-    <img src="https://img.shields.io/youtube/channel/views/UCo9zPQI-XBrwjjt9oPa6NGg?style=for-the-badge&logo=youtube" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCo9zPQI-XBrwjjt9oPa6NGg?sub_confirmation=1" target="_blank">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCo9zPQI-XBrwjjt9oPa6NGg?style=for-the-badge&logo=youtube" />
+  <a href="https://www.youtube.com/@Udzial?sub_confirmation=1" target="_blank">
+    <img src="https://img.shields.io/badge/▶_Subscribe_@Udzial-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/channel/UCfu42a053Ha11LefSRX92hQ?sub_confirmation=1" target="_blank">
-    <img src="https://img.shields.io/youtube/channel/views/UCfu42a053Ha11LefSRX92hQ?style=for-the-badge&logo=youtube" />
+    <img src="https://img.shields.io/badge/▶_Subscribe_Travel_Channel-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/channel/UCfu42a053Ha11LefSRX92hQ?sub_confirmation=1" target="_blank">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCfu42a053Ha11LefSRX92hQ?style=for-the-badge&logo=youtube" />
+  <a href="https://whatsapp.com/channel/0029Vb6pKpPElagzl4OTqG2s" target="_blank">
+    <img src="https://img.shields.io/badge/💬_Join-WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-</p>
-<p align="center">
-  <b>• <a href="https://gauravkhurana.com" target="_blank">Technical Blog</a></b> | 
-  <b>• <a href="https://udzial.com" target="_blank">Technical Blog(Earlier)</a></b> | 
-  <b><a href="https://blog.gauravkhurana.com" target="_blank">Personal (Travel & Apps) Blog</a></b> <br>
-  <i>Both YouTube channels share learning & travel in Hindi 🇮🇳</i>
 </p>
 
 <hr>
 
-<h2 align="center">🔧 Tools of the Trade</h2>
+<h2 align="center">🎓 Free Courses & Learning Resources</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
+  <i>Battle-tested tips from 15+ years in automation, directly from a Microsoft Test Consultant</i>
 </p>
 
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://gauravkhurana.com/docs/FreeCourses#automation-basics-series">
+        <img src="https://img.shields.io/badge/🤖_Automation-Basics_Series-2EAD33?style=for-the-badge" /><br>
+        <sub>Automation testing fundamentals from scratch</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://gauravkhurana.com/docs/FreeCourses#github-copilot--gh-300-certification">
+        <img src="https://img.shields.io/badge/🧠_GitHub_Copilot-GH--300_Cert-000000?style=for-the-badge" /><br>
+        <sub>Master Copilot from basics to certification</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://gauravkhurana.com/docs/FreeCourses#azure-ai-900-fundamentals">
+        <img src="https://img.shields.io/badge/☁️_Azure_AI--900-Certification-0089D6?style=for-the-badge" /><br>
+        <sub>Azure AI Fundamentals exam prep</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://gauravkhurana.com/docs/FreeCourses#azure-devops">
+        <img src="https://img.shields.io/badge/⚙️_Azure_DevOps-CI%2FCD_Pipelines-0078D7?style=for-the-badge" /><br>
+        <sub>Complete guide to Azure DevOps</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <b>AI Tools:</b> GitHub Copilot, ChatGPT, ClaudeAI, MCP Severs <br>
-  <b>Automation:</b> Selenium, Playwright, Appium, Serenity-BDD, TestProject, ACCELQ, AskUI<br>
+  <a href="https://gauravkhurana.com/docs/FreeCourses">
+    <img src="https://img.shields.io/badge/📚_View_All_Free_Courses-gauravkhurana.com-FF5722?style=for-the-badge" />
+  </a>
+</p>
+
+<hr>
+
+<h2 align="center">📖 What I Share on My Blog</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">🧪 <b>Testing</b><br><sub>Strategies, best practices<br>& methodologies</sub></td>
+    <td align="center">🤖 <b>Automation</b><br><sub>Playwright, Selenium<br>& frameworks</sub></td>
+    <td align="center">🧠 <b>AI & Copilot</b><br><sub>AI Foundry, Red Teaming<br>AI Evaluations & Agentic AI</sub></td>
+    <td align="center">⚙️ <b>DevOps</b><br><sub>CI/CD, Azure DevOps<br>& pipelines</sub></td>
+    <td align="center">🔌 <b>API Testing</b><br><sub>Postman, REST Assured<br>& Karate</sub></td>
+    <td align="center">🎯 <b>Career Growth</b><br><sub>Self mastery &<br>professional tips</sub></td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://gauravkhurana.com">
+    <img src="https://img.shields.io/badge/🌐_Explore_All_Content-gauravkhurana.com-FF5722?style=for-the-badge" />
+  </a>
+</p>
+
+<hr>
+
+<h2 align="center">🔧 Skills & Tools</h2>
+
+<p align="center">
+  <b>AI:</b> GitHub Copilot, ChatGPT, ClaudeAI, MCP Servers, Azure AI Foundry, AI Evaluations, Red Teaming <br>
+  <b>AI Skills:</b> Prompt Engineering, Agentic AI, AI-Powered Testing, RAG, Responsible AI <br>
+  <b>Automation:</b> Playwright, Selenium, Appium, Serenity-BDD, pytest-bdd, Specflow, Reqnroll, Cucumber, ACCELQ, AskUI<br>
   <b>API:</b> Postman, SoapUI, RestAssured, Karate<br>
-  <b>Languages:</b> Java, Python, C#<br>
-  <b>Test Management:</b> AzureDevOps (ADO)<br>
-  <b>DevOps:</b> Docker, Kubernetes, Jenkins, AzureDevOps<br>
-  <b>Cloud:</b> Azure, Azure Data Factory, Azure AI<br>
-  <b>Code Management:</b> Git, GitHub, Azure Repos
+  <b>Languages:</b> Java, Python, C#, Perl, Shell<br>
+  <b>DevOps:</b> Docker, Kubernetes, Jenkins, Azure DevOps, Git, GitHub<br>
+  <b>Cloud:</b> Azure, Azure Data Factory, Azure AI, Cloudflare
 </p>
 
 <hr>
 
-<h2 align="center">📫 Let's Connect</h2>
+<h2 align="center">🤝 1:1 Mentoring</h2>
+<p align="center">
+  <b>Career guidance</b> · <b>Learning roadmaps</b> · <b>Resume reviews</b> · <b>Technical deep-dives</b>
+</p>
+<p align="center">
+  <a href="https://topmate.io/gauravkhurana" target="_blank">
+    <img src="https://img.shields.io/badge/📅_Book_a_Session-Topmate-4CAF50?style=for-the-badge" />
+  </a>
+</p>
+
+<hr>
+
+<h2 align="center">📫 Connect & Follow</h2>
+<p align="center">
+  <a href="https://www.youtube.com/@Udzial?sub_confirmation=1" target="_blank">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCo9zPQI-XBrwjjt9oPa6NGg?style=for-the-badge&logo=youtube&label=Udzial" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCfu42a053Ha11LefSRX92hQ?sub_confirmation=1" target="_blank">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCfu42a053Ha11LefSRX92hQ?style=for-the-badge&logo=youtube&label=Travel" />
+  </a>
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/gauravkhuraana/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -110,10 +143,21 @@
   <a href="https://twitter.com/gauravkhuraana" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
+  <a href="https://medium.com/@gauravkhuraana" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://whatsapp.com/channel/0029Vb6pKpPElagzl4OTqG2s" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://gauravkhurana.com" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-gauravkhurana.com-FF5722?style=for-the-badge" />
+  </a>
   <a href="https://linktr.ee/gauravkhurana" target="_blank">
     <img src="https://img.shields.io/badge/linktree-%23D14836.svg?&style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
 </p>
+
+<hr>
 
 <h2 align="center">💻 GitHub Stats & Streaks</h2>
 
@@ -142,10 +186,10 @@
 <!--
 **gauravkhuraana/gauravkhuraana** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 Ideas:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
