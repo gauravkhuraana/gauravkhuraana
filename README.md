@@ -10,7 +10,7 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 <p align="center">
-  Hello! I'm <b>Gaurav Khurana</b>, a passionate <b>Software Tester</b> with 15+ years of experience in the IT industry.<br>
+  Hello! I'm <b>Gaurav Khurana</b>,  a passionate <b>Software Tester</b> with 15+ years of experience in the IT industry.<br>
   🏆 <b>Tester of the Year 2022</b> by The Test Chat Community<br>
   💼 Worked in 3 MNCs. Currently Sr. Test Consultant @ Microsoft<br>
   👨‍💻 Experienced on *nix & Windows, in telecom & insurance domains<br>
