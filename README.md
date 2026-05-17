@@ -19,7 +19,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Tester-FF9522?style=for-the-badge&logo=tester&logoColor=white" />
   <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
-  <img src="https://img.shields.io/badge/Youtuber-FF9522?style=for-the-badge&logo=youtube&logoColor=white" />
   <img src="https://img.shields.io/badge/Mentor-4CAF50?style=for-the-badge&logo=bookstack&logoColor=white" />
 </p>
 
