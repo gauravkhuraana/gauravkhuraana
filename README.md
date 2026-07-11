@@ -167,7 +167,7 @@
   <img src="https://streak-stats.demolab.com?user=gauravkhuraana&theme=gotham&hide_border=false&v=2" alt="GitHub Streak" width="65%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-gk.vercel.app/api/top-langs/?username=gauravkhuraana&layout=compact&theme=gotham&v=2" alt="Top Languages" width="65%" />
+  <img src="https://github-readme-stats-gk.vercel.app/api/top-langs/?username=gauravkhuraana&layout=compact&theme=gotham&v=2&hide=html,css" alt="Top Languages" width="65%" />
 </p>
 
 <p align="center">
